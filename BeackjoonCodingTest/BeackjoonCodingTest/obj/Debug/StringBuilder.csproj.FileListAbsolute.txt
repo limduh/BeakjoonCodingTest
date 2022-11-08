@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\BeakjoonCodingTest\BeackjoonCodingTest\BeackjoonCodingTest\bin\Debug\BeackjoonCodingTest.exe.config
+C:\Users\Admin\Documents\BeakjoonCodingTest\BeackjoonCodingTest\BeackjoonCodingTest\bin\Debug\BeackjoonCodingTest.exe
+C:\Users\Admin\Documents\BeakjoonCodingTest\BeackjoonCodingTest\BeackjoonCodingTest\bin\Debug\BeackjoonCodingTest.pdb
+C:\Users\Admin\Documents\BeakjoonCodingTest\BeackjoonCodingTest\BeackjoonCodingTest\obj\Debug\StringBuilder.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\BeakjoonCodingTest\BeackjoonCodingTest\BeackjoonCodingTest\obj\Debug\StringBuilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\BeakjoonCodingTest\BeackjoonCodingTest\BeackjoonCodingTest\obj\Debug\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\BeakjoonCodingTest\BeackjoonCodingTest\BeackjoonCodingTest\obj\Debug\BeackjoonCodingTest.exe
+C:\Users\Admin\Documents\BeakjoonCodingTest\BeackjoonCodingTest\BeackjoonCodingTest\obj\Debug\BeackjoonCodingTest.pdb
