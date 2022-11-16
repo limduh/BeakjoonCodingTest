@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilder", "BeackjoonCodingTest\StringBuilder.csproj", "{6FEE2A35-DB0A-45EE-ABDA-DA9E68AA558B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-0StringBuilder", "BeackjoonCodingTest\03-0StringBuilder.csproj", "{6FEE2A35-DB0A-45EE-ABDA-DA9E68AA558B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-1for", "02-1for\02-1for.csproj", "{508983C8-FA8D-44D5-B48B-97E80812C900}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-1for", "02-1for\03-1for.csproj", "{508983C8-FA8D-44D5-B48B-97E80812C900}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-2for", "02-2for\02-2for.csproj", "{305E13DA-0004-40DD-B720-604794125587}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-2for", "02-2for\03-2for.csproj", "{305E13DA-0004-40DD-B720-604794125587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-3for", "03-3for\03-3for.csproj", "{0CACBC1F-D0C5-4357-869E-6F220CF1E89C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05Array", "05Array\05Array.csproj", "{EC7C0BFD-F294-46AC-96B3-B7704D234E1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{305E13DA-0004-40DD-B720-604794125587}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{305E13DA-0004-40DD-B720-604794125587}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{305E13DA-0004-40DD-B720-604794125587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CACBC1F-D0C5-4357-869E-6F220CF1E89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CACBC1F-D0C5-4357-869E-6F220CF1E89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CACBC1F-D0C5-4357-869E-6F220CF1E89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CACBC1F-D0C5-4357-869E-6F220CF1E89C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC7C0BFD-F294-46AC-96B3-B7704D234E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7C0BFD-F294-46AC-96B3-B7704D234E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7C0BFD-F294-46AC-96B3-B7704D234E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7C0BFD-F294-46AC-96B3-B7704D234E1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
