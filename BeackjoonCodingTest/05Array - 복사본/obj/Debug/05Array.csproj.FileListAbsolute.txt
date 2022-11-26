@@ -1,8 +1,0 @@
-C:\Users\Admin\Documents\BeakjoonCodingTest\BeackjoonCodingTest\05Array\bin\Debug\05Array.exe.config
-C:\Users\Admin\Documents\BeakjoonCodingTest\BeackjoonCodingTest\05Array\bin\Debug\05Array.exe
-C:\Users\Admin\Documents\BeakjoonCodingTest\BeackjoonCodingTest\05Array\bin\Debug\05Array.pdb
-C:\Users\Admin\Documents\BeakjoonCodingTest\BeackjoonCodingTest\05Array\obj\Debug\05Array.csproj.AssemblyReference.cache
-C:\Users\Admin\Documents\BeakjoonCodingTest\BeackjoonCodingTest\05Array\obj\Debug\05Array.csproj.SuggestedBindingRedirects.cache
-C:\Users\Admin\Documents\BeakjoonCodingTest\BeackjoonCodingTest\05Array\obj\Debug\05Array.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Documents\BeakjoonCodingTest\BeackjoonCodingTest\05Array\obj\Debug\05Array.exe
-C:\Users\Admin\Documents\BeakjoonCodingTest\BeackjoonCodingTest\05Array\obj\Debug\05Array.pdb
